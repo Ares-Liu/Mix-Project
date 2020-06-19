@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vsdiagtester\\Desktop\\Project5\\Project5\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\COMInterop\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vsdiagtester\\Desktop\\Project5\\Project5\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\COMInterop\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vsdiagtester\\Desktop\\Project5\\Project5\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\COMInterop\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\vsdiagtester\\Desktop\\Project5\\Project5\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\COMInterop\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\vsdiagtester\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vsdiagtester\\Desktop\\Project5\\Project5\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\COMInterop\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vsdiagtester\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015178\\RuntimeIdentifierGraph.json"
         }
       }
     }
